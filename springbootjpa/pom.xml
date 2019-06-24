@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>es.ajca</groupId>
-	<artifactId>springbootjdbcsecurity</artifactId>
+	<artifactId>springbootjpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootjdbcsecurity</name>
+	<name>springbootjpa</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
