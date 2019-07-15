@@ -1,0 +1,13 @@
+datos:
+   twitter:
+      antoniodellugarea
+   web:
+      ajca.es
+management:
+   endpoints:
+      enabled-by-default:
+         true
+      web:
+         exposure:
+            include:
+               "*"      
